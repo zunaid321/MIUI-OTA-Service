@@ -2,7 +2,7 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MIUI-Pro-V7-ExplayHDQuad</RomName>
-  <VersionName>6.4.21</VersionName>
+  <VersionName>MIUI-Pro-V7-ExplayHDQuad-6.4.21</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
@@ -43,4 +43,7 @@
 * Added the ability to manually create a backup of applications and system settings in Mi Cloud 
 * Ported By Blacknumber-OTA Service By Zunaid</Changelog>
 </ROM>
-
+<AddonCount>2</AddonCount>
+<AddonsURL>
+https://raw.githubusercontent.com/zunaid321/MIUI-OTA-Service/master/addons.xml
+</AddonsURL>
