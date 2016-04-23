@@ -34,7 +34,7 @@
   <DonateURL>DONATE URL HERE</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 20160425
+  <Changelog>### Changelog Miui V7-6.4.21 20160421
 * Increased speed buffering some games 
 * Improved "bubbles" message font size S and XS 
 * Simplified registration and authorization of Mi account
