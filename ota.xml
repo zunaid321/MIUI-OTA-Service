@@ -13,7 +13,7 @@
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl><![CDATA[http://s02g.storage.yandex.net/rdisk/913182ab146b6dfd73f5ee8d804381ee6dae183f57bc34d2cdcf988d2e6a475a/571bedeb/aftYYxkdp9WvUBJVZ1zomLMGHS-R0580VjKl94Nw3reNkJQfIFKDd36GyKw9gXUh-yNYzb7WkXONtTG7U5DzRQ%3D%3D?uid=0&filename=miuiPro_4.4.2_HDQuad_6.4.21.zip&disposition=attachment&hash=ogvmzsm8r8Y%2BnsTDDDTXn5CC21LNcwo8HHQ6coC9Wks%3D%3A%2FmiuiPro_4.4.2_HDQuad_6.4.21.zip&limit=0&content_type=application%2Fx-zip-compressed&fsize=493182541&hid=6da19bc35ebb1786b9aeae32b0f20aca&media_type=compressed&tknv=v2&rtoken=9S6KKmnq65vx&force_default=no&ycrid=na-3e891f8bcc7a3ec7cc9607465381dccd-downloader14e&ts=5312deb1710c0&s=da9dc2a8e8d1d450802879374089e5f5a66a38d1fc5f6fdd651e7a6fe06cb83b&bp=/19/4/data-0.7:40667603126:493182541]]></DirectUrl>
+  <DirectUrl><![CDATA[https://s01d.storage.yandex.net/rdisk/932215d73f0645b265483759a1f889d32f8fcbb656df93bc7a80c56326801e33/571c12a4/Hd30CTYPtwFvNv-3H7wRwFixA_LIp1oodp3RrlbQc8MToFxqpI8wV8G5EjFtongocEegJQFvERTbcuO_wtCCbQ%3D%3D?uid=379996742&filename=ota+enable+miui+7+new.zip&disposition=attachment&hash=&limit=0&content_type=application%2Fx-zip-compressed&fsize=4598773&hid=6f9291cfbd8c3febb2250c5b046b0c94&media_type=compressed&tknv=v2&etag=68f1f98c1658cfe94eabc222c87d8445&rtoken=HMTr1uQmfJ6a&force_default=yes&ycrid=na-cf02a85bf76502c1af4d900a56c9c2be-downloader3h&ts=531301b6ef100&s=f9b606f022114e89cee2dde4435cbb1b7e4fd0878d8187c1fbeca7f83dc7b28b&bp=/27/1/data-0.8:50638660168:4598773]]></DirectUrl>
   <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>4.4.2</Android>
