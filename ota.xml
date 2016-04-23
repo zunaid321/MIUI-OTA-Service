@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <!-- Your ROM Name -->
-  <RomName>MiuiPro v7-6.x.x Weekly</RomName>
+  <RomName>MIUI Pro 7-6.x.x Weekly</RomName>
   <VersionName>6.4.25</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
   <VersionNumber type="integer">6425</VersionNumber>
   <!-- Linking to your files -->
-    <!-- <DirectUrl><![CDATA[https://s02g.storage.yandex.net/rdisk/913182ab146b6dfd73f5ee8d804381ee6dae183f57bc34d2cdcf988d2e6a475a/571bedeb/aftYYxkdp9WvUBJVZ1zomLMGHS-R0580VjKl94Nw3reNkJQfIFKDd36GyKw9gXUh-yNYzb7WkXONtTG7U5DzRQ%3D%3D?uid=0&filename=miuiPro_4.4.2_HDQuad_6.4.21.zip&disposition=attachment&hash=ogvmzsm8r8Y%2BnsTDDDTXn5CC21LNcwo8HHQ6coC9Wks%3D%3A%2FmiuiPro_4.4.2_HDQuad_6.4.21.zip&limit=0&content_type=application%2Fx-zip-compressed&fsize=493182541&hid=6da19bc35ebb1786b9aeae32b0f20aca&media_type=compressed&tknv=v2&rtoken=9S6KKmnq65vx&force_default=no&ycrid=na-3e891f8bcc7a3ec7cc9607465381dccd-downloader14e&ts=5312deb1710c0&s=da9dc2a8e8d1d450802879374089e5f5a66a38d1fc5f6fdd651e7a6fe06cb83b&bp=/19/4/data-0.7:40667603126:493182541]></DirectUrl> -->
+    <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
     <!-- Enter <DirectUrl nil="true /> or <HttpUrl nil="true /> to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
-  <DirectUrl>https://s02g.storage.yandex.net/rdisk/913182ab146b6dfd73f5ee8d804381ee6dae183f57bc34d2cdcf988d2e6a475a/571bedeb/aftYYxkdp9WvUBJVZ1zomLMGHS-R0580VjKl94Nw3reNkJQfIFKDd36GyKw9gXUh-yNYzb7WkXONtTG7U5DzRQ%3D%3D?uid=0&filename=miuiPro_4.4.2_HDQuad_6.4.21.zip&disposition=attachment&hash=ogvmzsm8r8Y%2BnsTDDDTXn5CC21LNcwo8HHQ6coC9Wks%3D%3A%2FmiuiPro_4.4.2_HDQuad_6.4.21.zip&limit=0&content_type=application%2Fx-zip-compressed&fsize=493182541&hid=6da19bc35ebb1786b9aeae32b0f20aca&media_type=compressed&tknv=v2&rtoken=9S6KKmnq65vx&force_default=no&ycrid=na-3e891f8bcc7a3ec7cc9607465381dccd-downloader14e&ts=5312deb1710c0&s=da9dc2a8e8d1d450802879374089e5f5a66a38d1fc5f6fdd651e7a6fe06cb83b&bp=/19/4/data-0.7:40667603126:493182541</DirectUrl>
+  <DirectUrl><![CDATA[http://s02g.storage.yandex.net/rdisk/913182ab146b6dfd73f5ee8d804381ee6dae183f57bc34d2cdcf988d2e6a475a/571bedeb/aftYYxkdp9WvUBJVZ1zomLMGHS-R0580VjKl94Nw3reNkJQfIFKDd36GyKw9gXUh-yNYzb7WkXONtTG7U5DzRQ%3D%3D?uid=0&filename=miuiPro_4.4.2_HDQuad_6.4.21.zip&disposition=attachment&hash=ogvmzsm8r8Y%2BnsTDDDTXn5CC21LNcwo8HHQ6coC9Wks%3D%3A%2FmiuiPro_4.4.2_HDQuad_6.4.21.zip&limit=0&content_type=application%2Fx-zip-compressed&fsize=493182541&hid=6da19bc35ebb1786b9aeae32b0f20aca&media_type=compressed&tknv=v2&rtoken=9S6KKmnq65vx&force_default=no&ycrid=na-3e891f8bcc7a3ec7cc9607465381dccd-downloader14e&ts=5312deb1710c0&s=da9dc2a8e8d1d450802879374089e5f5a66a38d1fc5f6fdd651e7a6fe06cb83b&bp=/19/4/data-0.7:40667603126:493182541</DirectUrl>
   <HttpUrl>HTTP WEBSITE LINK HERE</HttpUrl>
   <!-- What version are you issuing? -->
   <Android>4.4.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
-  <!-- OPTIONAL: Enter <CheckMD5 nil="false" /> offer MD5 checking -->
+  <!-- OPTIONAL: Enter <CheckMD5 nil="true" /> offer MD5 checking -->
   <CheckMD5>MD5 HERE</CheckMD5>
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">493182541</FileSize>
+  <FileSize type="integer">420147739</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
-  <Developer>Zunaid</Developer>
+  <Developer>http://4pda.ru/forum/index.php?showtopic=475691&view=findpost&p=47526409</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
-  <WebsiteURL>http://4pda.ru/forum/index.php?showtopic=475691&st=3940#entry47526409</WebsiteURL>
+  <WebsiteURL>http://4pda.ru/forum/index.php?showtopic=475691&view=findpost&p=47526409</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
   <DonateURL>DONATE URL HERE</DonateURL>
