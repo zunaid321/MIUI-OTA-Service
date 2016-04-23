@@ -33,26 +33,10 @@
     <!-- Put the changelog here... a single ; will be interpreted as a new line -->
     <!-- New lines will be a new bullet point -->
     <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-    <Changelog>### Changelog 20160424
-MIUI 7 China Developer ROM 6.4.21 Full Changelog
-
-System
-
-Optimization – Increased buffering speed for some games (04-19)
-Messaging
-
-Optimization – Improved layout for message bubbles with S and XS-sized text (04-20)
-Mi Account
-
-Optimization – Simplified sign-in process and creating Mi Account (04-19)
-Cleaner
-
-New – Added Tencent engine to improve productivity of Cleaner’s scans (04-20)
-Security
-
-Optimization – Improved algorithms for trash scans to clear up more space (04-19)
-Mi Cloud
-
-Optimization – ‘Back up apps’ is updated to ‘Back up device’.
-Support for backing up system settings. Allows restoring easily. (04-19)</Changelog>
-    </ROM>
+    <Changelog>### Changelog 20150105
+* Stuff
+* Updated this, or that
+* Fixed all the things
+* We even fixed this
+* Don't forget all the awesome features you added</Changelog>
+</ROM>
