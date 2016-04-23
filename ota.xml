@@ -43,7 +43,4 @@
 * Added the ability to manually create a backup of applications and system settings in Mi Cloud 
 * Ported By Blacknumber-OTA Service By Zunaid</Changelog>
 </ROM>
-<AddonCount>2</AddonCount>
-<AddonsURL>
-https://raw.githubusercontent.com/zunaid321/MIUI-OTA-Service/master/addons.xml
-</AddonsURL>
+
