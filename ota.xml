@@ -14,26 +14,48 @@
     <!-- Enter null to indicate you won't be using a type of URL -->
     <!-- HTTP link will open a web page -->
     <!-- Direct Link trumps HTTP link -->
-    <DirectUrl><![CDATA[http://www.uploadhosting.co/uploads/94.179.147.222/OTA_M7_ARTMODv5.3.zip]]></DirectUrl>
+    <DirectUrl><![CDATA[http://s02g.storage.yandex.net/rdisk/913182ab146b6dfd73f5ee8d804381ee6dae183f57bc34d2cdcf988d2e6a475a/571bedeb/aftYYxkdp9WvUBJVZ1zomLMGHS-R0580VjKl94Nw3reNkJQfIFKDd36GyKw9gXUh-yNYzb7WkXONtTG7U5DzRQ%3D%3D?uid=0&filename=miuiPro_4.4.2_HDQuad_6.4.21.zip&disposition=attachment&hash=ogvmzsm8r8Y%2BnsTDDDTXn5CC21LNcwo8HHQ6coC9Wks%3D%3A%2FmiuiPro_4.4.2_HDQuad_6.4.21.zip&limit=0&content_type=application%2Fx-zip-compressed&fsize=493182541&hid=6da19bc35ebb1786b9aeae32b0f20aca&media_type=compressed&tknv=v2&rtoken=9S6KKmnq65vx&force_default=no&ycrid=na-3e891f8bcc7a3ec7cc9607465381dccd-downloader14e&ts=5312deb1710c0&s=da9dc2a8e8d1d450802879374089e5f5a66a38d1fc5f6fdd651e7a6fe06cb83b&bp=/19/4/data-0.7:40667603126:493182541]]></DirectUrl>
     <HTTPUrl>null</HTTPUrl>
     <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
     <!-- OPTIONAL: Enter null to not offer MD5 checking -->
-    <CheckMD5>2F0F36D823789A12E5BF883DAB7FA9EF</CheckMD5>
+    <CheckMD5>null</CheckMD5>
     <!-- What version are you issuing? -->
     <Android>4.4.2</Android>
     <!-- Developer or Team name. You can put anything here, even a couple of names -->
     <!-- OPTIONAL: Enter null to hide this -->
-    <Developer>Artur0588</Developer>
+    <Developer>Zunaid</Developer>
     <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
     <!-- OPTIONAL: Enter null to hide this -->
-    <Website>null</Website>
+    <Website>http://4pda.ru/forum/index.php?showtopic=475691&view=findpost&p=47526409</Website>
     <!-- Your Donate URL -->
     <!-- OPTIONAL: Enter null to hide this -->
     <DonateURL>null</DonateURL>
     <!-- Put the changelog here... a single ; will be interpreted as a new line -->
     <!-- New lines will be a new bullet point -->
     <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-    <Changelog>
+    <Changelog>### Changelog 20160424
+MIUI 7 China Developer ROM 6.4.21 Full Changelog
+
+System
+
+Optimization – Increased buffering speed for some games (04-19)
+Messaging
+
+Optimization – Improved layout for message bubbles with S and XS-sized text (04-20)
+Mi Account
+
+Optimization – Simplified sign-in process and creating Mi Account (04-19)
+Cleaner
+
+New – Added Tencent engine to improve productivity of Cleaner’s scans (04-20)
+Security
+
+Optimization – Improved algorithms for trash scans to clear up more space (04-19)
+Mi Cloud
+
+Optimization – ‘Back up apps’ is updated to ‘Back up device’.
+Support for backing up system settings. Allows restoring easily. (04-19)
+     </Changelog>
     
-    </Changelog>
+ 
     </ROM>
