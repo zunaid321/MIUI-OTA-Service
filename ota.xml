@@ -2,7 +2,7 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MIUI-Pro-V7-ExplayHDQuad</RomName>
-  <VersionName>MIUI-Pro-6.4.21-ExplayHDQuad</VersionName>
+  <VersionName>6.4.21</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
