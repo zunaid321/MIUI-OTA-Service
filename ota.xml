@@ -28,17 +28,18 @@
   <Developer>Zunaid,Blacknumber</Developer>
   <!-- Your ROM or Developer Website. Can be a personal site or your XDA/forum thread -->
   <!-- OPTIONAL: Enter <Website nil="true" /> to hide this -->
-  <WebsiteURL>http://4pda.ru/forum/index.php?showtopic=475691&view=findpost&p=47526409</WebsiteURL>
+  <WebsiteURL>http://goo.gl/Enaw78</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
   <DonateURL>DONATE URL HERE</DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>### Changelog 20160424
-Increased speed buffering some games 
-Improved "bubbles" message font size S and XS 
-simplified registration and authorization of Mi account 
-Added new Tencent cleaning engine 
-Improved file scanning algorithm to clean 
-Added the ability to manually create a backup of applications and system settings in Mi Cloud</Changelog>
+  <Changelog>### Changelog 20160425
+* Increased speed buffering some games 
+* Improved "bubbles" message font size S and XS 
+* Simplified registration and authorization of Mi account
+* Added new Tencent cleaning engine 
+* Improved file scanning algorithm to clean 
+* Added the ability to manually create a backup of applications and system settings in Mi Cloud 
+* Ported By Blacknumber-OTA Service By Zunaid</Changelog>
 </ROM>
